@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GeometryVolume</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+    <string name="height">tinggi</string>
+    <string name="required_field">Field ini tidak boleh kosong</string>
+    <string name="required_number">Field harus berupa angka</string>
+    <string name="move_page">Pindah Halaman</string>
+    <string name="required_result">Silahkan lakukan perhitungan terlebih dahulu</string>
+</resources>
